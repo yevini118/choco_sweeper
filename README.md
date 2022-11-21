@@ -1,6 +1,8 @@
 # choco_sweeper💣
 
 #### 조금 더 귀여운 지뢰 찾기 게임
+<img src="https://github.com/yevini118/choco_sweeper/blob/main/source/choco.png?raw=true" width="60"/><img src="https://github.com/yevini118/choco_sweeper/blob/main/source/cryingchoco.png?raw=true" width="60"/><img src="https://github.com/yevini118/choco_sweeper/blob/main/source/happychoco.png?raw=true" width="60"/>
+<br>
 
 ---
 
@@ -10,13 +12,18 @@ choco_sweeper_v1[:link:](https://velog.io/@yevini118/python-%EC%A7%80%EB%A2%B0%E
 choco_sweeper_v2[:link:](https://velog.io/@yevini118/python-chocosweeperv2)
 
 - 더블클릭 기능, 레벨 선택기능 추가
+
 <br>
+
+---
 
 ### 사용법:question:
 #### 실행 파일
  choco_sweeper_v2.zip[💾](https://github.com/yevini118/choco_sweeper/blob/main/choco_sweeper_v2.zip "choco_sweeper_v2.zip")
  
  다운로드 후 압축 해제하고  `choco_sweeper_v2.exe` 실행
+ 
+<br>
 
 ---
 ### 실행 화면
@@ -32,3 +39,7 @@ choco_sweeper_v2[:link:](https://velog.io/@yevini118/python-chocosweeperv2)
 
 #### 게임 실패 화면
 <img src="https://images.velog.io/images/yevini118/post/4f719523-4f70-4c48-b97b-c9dcb838ca20/%EA%B2%8C%EC%9E%84%EC%8B%A4%ED%8C%A8%ED%99%94%EB%A9%B4.PNG" width="500"/>
+
+<br>
+
+---
